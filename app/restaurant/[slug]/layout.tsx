@@ -1,4 +1,3 @@
-import { parseArgs } from "util";
 import Header from "./components/Header";
 
 export default function RestaurantLayout({
